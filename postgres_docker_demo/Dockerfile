@@ -1,0 +1,3 @@
+FROM postgres
+ENV POSTGRES_PASSWORD revlt
+ENV POSTGRES_DB world
