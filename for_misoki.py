@@ -2,6 +2,8 @@
 Sample Python file with common code issues for demo
 """
 
+import os
+import sys
 from typing import List, Dict, Optional
 
 
